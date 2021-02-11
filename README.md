@@ -17,7 +17,7 @@ After refactoring the code, the VBA script ran a little over three times faster 
 #### Advantages of refactoring code: 
 - Clear and consise; reader friendly
 - Detecting ["Code smell"](https://www.c-sharpcorner.com/article/pros-and-cons-of-code-refactoring/); i.e. code duplication, long method/large class, long parameter list in method, etc.
-- Debudding code is easier to conduct
+- Debugging code is easier to conduct
 - Improves the design of software
 - Decrease in macro run time
 - Reduce complexity
