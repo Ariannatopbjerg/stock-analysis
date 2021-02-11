@@ -1,6 +1,6 @@
 # Stock Analysis using Microsoft Excel VBA code
 ## Background
-Steve wanted to know more about the stock DAQO to see if his parents should invest in this stock. I developed Microsoft Excel VBA code so Steve can analyze his dataset with a click of a button. This code allowed Steve to look at a few years (2017,2018) of information showing what the stock was doing. According to the data, DAQO was not successful. Knowing this, Steve now wants to look at the entire stock market over the last few years. 
+Steve wanted to know more about the stock Daqo to see if his parents should invest in this stock. I developed Microsoft Excel VBA code so Steve can analyze his dataset with a click of a button. This code allowed Steve to look at a few years (2017,2018) of information showing what the stock was doing. According to the data, Daqo was not successful. Knowing this, Steve now wants to look at the entire stock market over the last few years. 
 ## Purpose 
 Since my code might not work as efficiently and/or fast enough for a greater number of stocks, the goal is to refactor my VBA script so that when Steve looks at his dataset or other longer datasets, the code will be much faster to process the data.  
 ## Methods
